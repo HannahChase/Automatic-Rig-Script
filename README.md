@@ -1,6 +1,6 @@
 # Automatic-Rig-Script
 
-##Installation:
+## Installation:
 Unpackage the .zip 'HC_AutoRigTool' once downloaded.
 
 Place all the files EXCEPT user set up in this directory:
