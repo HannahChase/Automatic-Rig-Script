@@ -12,6 +12,7 @@ If you do not have a userSetup.mel file, place it in this directory:
 -  Windows: <drive>: \Documents\maya\<version(2020 or current year)>\scripts
 -  Mac: ~/Library/Preferences/Autodesk/maya/<version(2020 or current year)>/scripts
 -  Linux: ~maya/<version(2020 or current year)>/scripts
+
 If you already have a userSetup.mel file don't overwrite it! Just open it up and add, 'source "hcAutoRig_UI.mel";' to it.
 
   
