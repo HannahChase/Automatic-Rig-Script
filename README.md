@@ -3,7 +3,7 @@
 ## Installation:
 Unpackage the .zip 'HC_AutoRigTool' once downloaded.
 
-Place all the files EXCEPT user set up in this directory:
+Place all the files EXCEPT userSetup.mel file in this directory:
 -  Windows: <drive>: \Documents\maya\<version(2020 or current year)>\prefs\scripts
 -  Mac: ~/Library/Preferences/Autodesk/maya/<version(2020 or current year)>/prefs/scripts
 -  Linux: ~maya/<version(2020 or current year)>/prefs/scripts
